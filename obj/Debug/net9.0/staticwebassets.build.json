@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VNDvtHiz9HR0CVQ/BTuqMdWYXpAB1qO+UEY6sA9m/M8=",
+  "Source": "SOAP Server",
+  "BasePath": "_content/SOAP Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

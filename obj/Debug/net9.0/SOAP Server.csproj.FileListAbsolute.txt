@@ -1,0 +1,43 @@
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/appsettings.Development.json
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/appsettings.json
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/SOAP Server.staticwebassets.endpoints.json
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/SOAP Server
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/SOAP Server.deps.json
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/SOAP Server.runtimeconfig.json
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/SOAP Server.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/SOAP Server.pdb
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Serilog.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Serilog.AspNetCore.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+/Users/cristiantello/Documents/University/SOAP Server/bin/Debug/net9.0/Serilog.Sinks.File.dll
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Server.csproj.AssemblyReference.cache
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Server.AssemblyInfoInputs.cache
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Server.AssemblyInfo.cs
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Server.csproj.CoreCompileInputs.cache
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Server.MvcApplicationPartsAssemblyInfo.cs
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Server.MvcApplicationPartsAssemblyInfo.cache
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/scopedcss/bundle/SOAP Server.styles.css
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/staticwebassets.build.json
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/staticwebassets.development.json
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/staticwebassets/msbuild.SOAP Server.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/staticwebassets/msbuild.SOAP Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/staticwebassets/msbuild.build.SOAP Server.props
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.SOAP Server.props
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.SOAP Server.props
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Ser.19C7372F.Up2Date
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Server.dll
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/refint/SOAP Server.dll
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Server.pdb
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/SOAP Server.genruntimeconfig.cache
+/Users/cristiantello/Documents/University/SOAP Server/obj/Debug/net9.0/ref/SOAP Server.dll

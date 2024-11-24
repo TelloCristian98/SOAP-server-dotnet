@@ -1,0 +1,29 @@
+### Get All Books
+POST http://localhost:5000/api/Books
+Content-Type: application/xml
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body>
+        <BookRequest xmlns="http://example.com/books">
+            <Operation>GetBooks</Operation>
+        </BookRequest>
+    </soap:Body>
+</soap:Envelope>
+
+### Add a Book
+POST http://localhost:5000/api/Books
+Content-Type: application/xml
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body>
+        <BookRequest xmlns="http://example.com/books">
+            <Operation>AddBook</Operation>
+            <Book>
+                <Id>3</Id>
+                <Title>Book Three</Title>
+                <Author>Author C</Author>
+                <Year>2020</Year>
+            </Book>
+        </BookRequest>
+    </soap:Body>
+</soap:Envelope>
